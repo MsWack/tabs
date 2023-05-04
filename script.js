@@ -1,7 +1,3 @@
-//window.addEventListener("load") - скрипт начнет выполняться только после того, как загрузится все страница
-//window.addEventListener("DOMContentLoaded") - весь HTML полностью загружен (то есть загружена вся структура html - дерево), не дожидаясь окончания загрузки стилей, изображений и фреймов
-
-//весь скрипт будет прописываться внутри "DOMContentLoaded"
 window.addEventListener("DOMContentLoaded", function () {
     "use strict";
     //ПЕРЕКЛЮЧЕНИЕ ТАБОВ (ВКЛАДОК)
